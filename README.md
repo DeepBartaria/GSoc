@@ -1,6 +1,6 @@
 # Tutorial Mode for Swift in the VS Code Extension
 
-> 📝 An unselected GSoC 2025 proposal, now open-sourced for community inspiration and contribution.
+> 📝 A GSoC 2025 proposal proposed by me, now open-sourced for community inspiration and contribution.
 
 ## 📌 Overview
 
